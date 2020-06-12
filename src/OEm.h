@@ -33,7 +33,7 @@
   \brief Online EM algorithm
 */
 
-#include <Em.h>
+#include "Em.h"
 
 
 namespace ermg {

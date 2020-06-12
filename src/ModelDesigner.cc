@@ -17,7 +17,7 @@
  * Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
  */
 
-#include <ModelDesigner.h>
+#include "ModelDesigner.h"
 #include <R.h>
 #include <Rmath.h>
 

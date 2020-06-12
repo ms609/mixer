@@ -17,7 +17,7 @@
  * Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
  */
 
-#include <EmCore.h>
+#include "EmCore.h"
 
 using namespace std;
 

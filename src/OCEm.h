@@ -34,7 +34,7 @@
 */
 
 #include <limits>
-#include <EmCore.h>
+#include "EmCore.h"
 
 
 namespace ermg {

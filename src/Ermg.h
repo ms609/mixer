@@ -35,10 +35,10 @@
 
 
 #include <cmath>
-#include <Barycenters.h>
-#include <SparseMatrix.h>
-#include <BandMemMatrix.h>
-#include <Graph.h>
+#include "Barycenters.h"
+#include "SparseMatrix.h"
+#include "BandMemMatrix.h"
+#include "Graph.h"
 #include <stdlib.h>
 
 namespace ermg {

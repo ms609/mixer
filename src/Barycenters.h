@@ -33,8 +33,8 @@
   \brief Barycenters
 */
 
-#include <SparseMatrix.h>
-#include <BandMemMatrix.h>
+#include "SparseMatrix.h"
+#include "BandMemMatrix.h"
 #include <cmath>
 #include <cstdlib>
 

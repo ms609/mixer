@@ -18,7 +18,7 @@
  * Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
  */
 
-#include <ModelImprover.h>
+#include "ModelImprover.h"
 #include <limits>
 #include <unistd.h>
 #include <time.h>

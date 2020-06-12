@@ -29,9 +29,9 @@ using namespace std;
 #include <stdlib.h>
 #include <sys/types.h>
 #include <unistd.h>
-#include <ModelImprover.h>
-#include <Emd.h>
-#include <GraphReader.h>
+#include "ModelImprover.h"
+#include "Emd.h"
+#include "GraphReader.h"
 
 #include <R.h>
 #include <Rmath.h>

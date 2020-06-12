@@ -17,7 +17,7 @@
  * Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
  */
 
-#include <GraphReader.h>
+#include "GraphReader.h"
 #include <cassert>
 #include <algorithm>
 #include <fstream>

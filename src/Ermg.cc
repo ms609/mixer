@@ -17,8 +17,8 @@
  * Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
  */
 
-#include <Ermg.h>
-#include <EmCore.h>
+#include "Ermg.h"
+#include "EmCore.h"
 
 #include <cstdlib>
 #include <algorithm>

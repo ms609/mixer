@@ -33,7 +33,7 @@
   \brief Stochastic Online Classification EM algorithm
 */
 
-#include <OCEm.h>
+#include "OCEm.h"
 
 
 namespace ermg {

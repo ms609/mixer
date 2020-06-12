@@ -41,7 +41,7 @@
 #include <vector>
 
 
-#include <Graph.h>
+#include "Graph.h"
 
 namespace ermg {
 

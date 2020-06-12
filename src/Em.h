@@ -33,7 +33,7 @@
   \brief EM algorithm
 */
 
-#include <EmCore.h>
+#include "EmCore.h"
 
 
 namespace ermg {

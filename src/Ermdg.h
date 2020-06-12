@@ -33,7 +33,7 @@
   \brief Erdös Reni Mixture for Directed Graphs class
 */
 
-#include <Ermg.h>
+#include "Ermg.h"
 
 namespace ermg {
 
